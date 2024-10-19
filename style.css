@@ -1,0 +1,18 @@
+h1{
+    font-family: monospace;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+}
+
+body{
+    color: white;
+    background-color: rgb(17, 17, 17);
+}
+
+li{
+    font-size: 40px;
+    font-family: monospace;
+}
